@@ -1,13 +1,21 @@
-<?php
+/*
+=========================
+==== start to git hup====
+=========================
 
+1: add;
 
-class UserModel extends CI_Model {
+	git add * // add all files
+	git add html/index.php // add one file
 
+2: git status 
 
-	public function diplayUsers(){
-		$this->db->select('*');
-		$this->db->from('users');
-		return $this->db->get();
-	}
+	// for know status
 
-}
+3: git reset html/index.php
+
+	// for reset sonthing
+
+4: git commit -m "this is comment"
+	//for comment
+*/
