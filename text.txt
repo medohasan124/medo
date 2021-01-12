@@ -1,0 +1,22 @@
+/*
+=========================
+==== start to git hup====
+=========================
+0: git clone https://github.com/medohasan124/medo.git
+	// to make copy from file b my pc
+1: add;
+
+	git add * // add all files
+	git add html/index.php // add one file
+
+2: git status 
+
+	// for know status
+
+3: git reset html/index.php
+
+	// for reset  sonthing
+
+4: git commit -m "this is comment"
+	//for comment
+*/
